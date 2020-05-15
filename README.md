@@ -1,2 +1,2 @@
 # DataScience
-A repo for me to get started with advance Data-Science.
+A repo for me for all my Data-Science ipynbs
