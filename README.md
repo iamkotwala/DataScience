@@ -12,3 +12,4 @@ What measures you should take before performing the multiple regression? (any re
 
 <b>3 Multiple Regression w Categorical Data</b><br>
 Multiple Regression with Categorical Data using dummy variables. Also, predicted the result with the help of StatsModels.api.
+(Nothing ML here. Just basic estimations!)
