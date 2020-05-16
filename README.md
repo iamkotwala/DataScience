@@ -13,3 +13,13 @@ What measures you should take before performing the multiple regression? (any re
 <b>3 Multiple Regression w Categorical Data</b><br>
 Multiple Regression with Categorical Data using dummy variables. Also, predicted the result with the help of StatsModels.api.
 (Nothing ML here. Just basic estimations!)
+
+<hr>
+Basic ML starts from here...
+<br><br>
+
+<b>4 Simple Linear Regression w sklearn</b><br>
+This file shows the differences between statsmodels and sklearn. How we have to define r-squared, intercept & coeffecient seperately to create statsmodels like summary.
+
+<b>5 Multiple Regression w sklearn</b><br>
+This file shows the regression, r-squared, the adjusted r-squared, feature selection, standardization, regression with scaled inputs, predicting, and getting to know sklearn little deeper!
