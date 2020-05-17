@@ -14,8 +14,8 @@ Imports used:
 + import matplotlib.pyplot as plt
 + import statsmodels.api as sm
 + import seaborn as sns
-</i>
 ```
+</i>  
 <b>0 Percentile Rank</b><br>
 Contains the rank statistics of my fellow classmates
 
