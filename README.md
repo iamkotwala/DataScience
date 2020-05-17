@@ -1,7 +1,7 @@
 # DataScience
 A repo for all my Data-Science ipynbs<br><br>
 
-Imports used:<br><br>
+Imports used:
 <i>
 ```diff
 + from sklearn.linear_model import LinearRegression <br> 
