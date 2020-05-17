@@ -45,3 +45,6 @@ Using the function train_test_split() provided by sklearn.model_selection
 <b>7 Real life eg. Car Data</b><br>
 Performing the prediction on real life dataset. From preprocessing (removing missing values, exploring probability sistribution functions, dealing with outliers, checking OLS assumptions, multicollinearity, dummy varibales) 
 to Performing the Regression (scaling, spliting, weights & biases) and then Testing. All on sklearn.
+
+<b>8 Simple Logistic Regression</b><br>
+Logistic Regression; plotting and summary table from StatsModels.
