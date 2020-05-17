@@ -3,17 +3,19 @@ A repo for all my Data-Science ipynbs<br><br>
 
 Imports used:<br><br>
 <i>
-- ![#1589F0]( from sklearn.linear_model import LinearRegression) `#1589F0` <br> 
-from sklearn.feature_selection import f_regression<br>
-from sklearn.model_selection import train_test_split<br>
-from sklearn.preprocessing import StandardScaler<br>
-from statsmodels.stats.outliers_influence import variance_inflation_factor<br>
-import numpy as np<br>
-import pandas as pd<br>
-import matplotlib.pyplot as plt<br>
-import statsmodels.api as sm<br>
-import seaborn as sns<br>
-</i></p>
+```diff
++ from sklearn.linear_model import LinearRegression <br> 
++ from sklearn.feature_selection import f_regression<br>
++ from sklearn.model_selection import train_test_split<br>
++ from sklearn.preprocessing import StandardScaler<br>
++ from statsmodels.stats.outliers_influence import variance_inflation_factor<br>
++ import numpy as np<br>
++ import pandas as pd<br>
++ import matplotlib.pyplot as plt<br>
++ import statsmodels.api as sm<br>
++ import seaborn as sns<br>
+</i>
+```
 <b>0 Percentile Rank</b><br>
 Contains the rank statistics of my fellow classmates
 
