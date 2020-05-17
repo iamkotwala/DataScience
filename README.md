@@ -1,5 +1,18 @@
 # DataScience
-A repo for all my Data-Science ipynbs
+A repo for all my Data-Science ipynbs<br><br>
+
+Imports used:<br><br>
+
+from sklearn.linear_model import LinearRegression<br>
+from sklearn.feature_selection import f_regression<br>
+from sklearn.model_selection import train_test_split<br>
+from sklearn.preprocessing import StandardScaler<br>
+from statsmodels.stats.outliers_influence import variance_inflation_factor<br>
+import numpy as np<br>
+import pandas as pd<br>
+import matplotlib.pyplot as plt<br>
+import statsmodels.api as sm<br>
+import seaborn as sns<br>
 
 <b>0 Percentile Rank</b><br>
 Contains the rank statistics of my fellow classmates
@@ -23,3 +36,10 @@ This file shows the differences between statsmodels and sklearn. How we have to 
 
 <b>5 Multiple Regression w sklearn</b><br>
 This file shows the regression, r-squared, the adjusted r-squared, feature selection, standardization, regression with scaled inputs, predicting, and getting to know sklearn little deeper!
+
+<b>6 Train-Test in Sklearn</b><br>
+Using the function train_test_split() provided by sklearn.model_selection
+
+<b>7 Real life eg. Car Data</b><br>
+Performing the prediction on real life dataset. From preprocessing (removing missing values, exploring probability sistribution functions, dealing with outliers, checking OLS assumptions, multicollinearity, dummy varibales) 
+to Performing the Regression (scaling, spliting, weights & biases) and then Testing. All on sklearn.
