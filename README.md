@@ -49,3 +49,6 @@ to Performing the Regression (scaling, spliting, weights & biases) and then Test
 
 <b>8 Simple Logistic Regression</b><br>
 Logistic Regression; plotting and summary table from StatsModels.
+
+<b>9 Logistic Regression Binary Predictors</b><br>
+Logistic Regression Binary Predictors with StatsModels; Regression, Confusing-Matrix, Testing with test data.
