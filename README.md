@@ -1,5 +1,6 @@
 # DataScience
-A repo for all my Data-Science ipynbs<br><br>
+A repo for all my Data-Science ipynbs. Helpful for someone who wants to start the basics of Data Science (Stats, ML, DL). <br>
+All datasets (*.csv) are provided by [365datascience] (https://365datascience.com/ ). <br><br>
 
 Imports used:
 <i>
@@ -47,7 +48,7 @@ This file shows the regression, r-squared, the adjusted r-squared, feature selec
 Using the function train_test_split() provided by sklearn.model_selection
 
 <b>7 Real life eg. Car Data</b><br>
-Performing the prediction on real life dataset. From preprocessing (removing missing values, exploring probability sistribution functions, dealing with outliers, checking OLS assumptions, multicollinearity, dummy varibales) 
+Performing the prediction on real life dataset. From preprocessing (removing missing values, exploring probability sistribution functions, dealing with outliers, checking OLS assumptions, multicollinearity, dummy variables) 
 to Performing the Regression (scaling, spliting, weights & biases) and then Testing. All on sklearn.
 
 <b>8 Simple Logistic Regression</b><br>
@@ -63,7 +64,7 @@ Using KMeans clustering to generate continents where each data point is a countr
 Using KMeans clustering to generate continents where language, continents are dummy variables.
 
 <b>12 Clusters with WCSS, Elbow method</b><br>
-Within Clusters Sum of Squares(WCSS). How elbow method can be used to determine the clusters. sklearn uses kmeans++ by default.
+Within Clusters Sum of Squares(WCSS). How elbow method can be used to determine the clusters. (And, how sklearn uses kmeans++ by default)
 
 <b>13 Cluster Analysis Market Segmentation</b><br>
 Using standardization on real life data to see how clusters are changing.
@@ -74,6 +75,7 @@ Seaborn magic!
 <hr>
 Basics of Deep Learning starts from here...<br>
 Before jumping onto the next section, learn the basics of numpy array, tensors, matrices, operations on matrices(addition, subtraction, transpose, dot product)
+(In terms of programming, tensor is no different than ndarray.)
 <br><br>
 
 <b>15 Neural Networks, training the model</b><br>
