@@ -77,4 +77,4 @@ Before jumping onto the next section, learn the basics of numpy array, tensors, 
 <br><br>
 
 <b>15 Neural Networks, training the model</b><br>
--
+will upload soon
