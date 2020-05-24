@@ -4,16 +4,19 @@ A repo for all my Data-Science ipynbs<br><br>
 Imports used:
 <i>
 ```diff
-+ from sklearn.linear_model import LinearRegression
-+ from sklearn.feature_selection import f_regression
-+ from sklearn.model_selection import train_test_split
-+ from sklearn.preprocessing import StandardScaler
-+ from statsmodels.stats.outliers_influence import variance_inflation_factor
+
 + import numpy as np
 + import pandas as pd
 + import matplotlib.pyplot as plt
 + import statsmodels.api as sm
 + import seaborn as sns
++ from sklearn.linear_model import LinearRegression
++ from sklearn.feature_selection import f_regression
++ from sklearn.model_selection import train_test_split
++ from sklearn.preprocessing import StandardScaler
++ from statsmodels.stats.outliers_influence import variance_inflation_factor
++ from sklearn.cluster import KMeans
++ from sklearn import preprocessing
 ```
 </i>  
 
@@ -52,3 +55,26 @@ Logistic Regression; plotting and summary table from StatsModels.
 
 <b>9 Logistic Regression Binary Predictors</b><br>
 Logistic Regression Binary Predictors with StatsModels; Regression, Confusing-Matrix, Testing with test data.
+
+<b>10 Cluster Analysis</b><br>
+Using KMeans clustering to generate continents where each data point is a country.
+
+<b>11 Cluster Analysis w Categorical Data</b><br>
+Using KMeans clustering to generate continents where language, continents are dummy variables.
+
+<b>12 Clusters with WCSS, Elbow method</b><br>
+Within Clusters Sum of Squares(WCSS). How elbow method can be used to determine the clusters. sklearn uses kmeans++ by default.
+
+<b>13 Cluster Analysis Market Segmentation</b><br>
+Using standardization on real life data to see how clusters are changing.
+
+<b>14 Heatmaps & Dendogram</b><br>
+Seaborn magic! 
+
+<hr>
+Basics of Deep Learning starts from here...<br>
+Before jumping onto the next section, learn the basics of numpy array, tensors, matrices, operations on matrices(addition, subtraction, transpose, dot product)
+<br><br>
+
+<b>15 Neural Networks, training the model</b><br>
+-
