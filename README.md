@@ -1,8 +1,9 @@
 # DataScience
 A repo for all my Data-Science ipynbs. Helpful for someone who wants to start the basics of Data Science (Stats, ML, DL). <br>
-All datasets (*.csv) are provided by [365datascience] (https://365datascience.com/ ). <br><br>
+All datasets (*.csv) are provided by [365datascience]. <br><br>
 
-Imports used:
+
+Imports used:  
 <i>
 ```diff
 
@@ -80,3 +81,6 @@ Before jumping onto the next section, learn the basics of numpy array, tensors, 
 
 <b>15 Neural Networks, training the model</b><br>
 will upload soon
+
+
+[365datascience]: https://365datascience.com/
