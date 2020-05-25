@@ -81,13 +81,13 @@ Basics of Neural Nets, Deep Learning starts from here...
 <b>15 Simple Neural Network (Numpy)</b><br>
 A Simple Neural Network made with numpy.
 
-- Will work on Tensorflow from now onwards. 
-- sklearn does not provide with functions regrading neural networks. 
-- sklearn is useful in preprocessing (i.e. clustering, random forests, etc.) 
-- The theory is same but syntax changes a little.
-- Keras was integrated with tensorflow in 2017. 
-- Keras is nothing but an interface for TensorFlow rather than different library.
-- Tensorflow2 is basically keras, because TF2 uses syntax of Keras.
+\- Will work on Tensorflow from now onwards. 
+\- sklearn does not provide with functions regrading neural networks. 
+\- sklearn is useful in preprocessing (i.e. clustering, random forests, etc.) 
+\- The theory is same but syntax changes a little.
+\- Keras was integrated with tensorflow in 2017. 
+\- Keras is nothing but an interface for TensorFlow rather than different library.
+\- Tensorflow2 is basically keras, because TF2 uses syntax of Keras.
 <br><br>
 
 <b>15 Simple Neural Network (Tensorflow2)</b><br>
