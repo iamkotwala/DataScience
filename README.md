@@ -1,6 +1,6 @@
 # DataScience
 A repo for all my Data-Science ipynbs. Helpful for someone who wants to start the basics of Data Science (Stats, ML, DL). <br>
-All datasets (*.csv) are provided by [365datascience] (https://365datascience.com/ ). <br><br>
+Some datasets (*.csv) are provided by [365datascience] (https://365datascience.com/ ). While some are scraped by me.<br><br>
 
 Imports used:
 <i>
@@ -73,10 +73,24 @@ Using standardization on real life data to see how clusters are changing.
 Seaborn magic! 
 
 <hr>
-Basics of Deep Learning starts from here...<br>
-Before jumping onto the next section, learn the basics of numpy array, tensors, matrices, operations on matrices(addition, subtraction, transpose, dot product)
-(In terms of programming, tensor is no different than ndarray.)
+Basics of Neural Nets, Deep Learning starts from here...
+- Before jumping onto the next section, learn the basics of numpy array, tensors, matrices, operations on matrices(addition, subtraction, transpose, dot product)
+- In terms of programming, tensor is no different than ndarray.
 <br><br>
 
-<b>15 Neural Networks, training the model</b><br>
-will upload soon
+<b>15 Simple Neural Network (Numpy)</b><br>
+A Simple Neural Network made with numpy.
+
+- Will work on Tensorflow from now onwards. 
+- sklearn does not provide with functions regrading neural networks. 
+- sklearn is useful in preprocessing (i.e. clustering, random forests, etc.) 
+- The theory is same but syntax changes a little.
+- Keras was integrated with tensorflow in 2017. 
+- Keras is nothing but an interface for TensorFlow rather than different library.
+- Tensorflow2 is basically keras, because TF2 uses syntax of Keras.
+<br><br>
+
+<b>15 Simple Neural Network (Tensorflow2)</b><br>
+The same Simple Neural Network, but now with Tensorflow2.
+
+
