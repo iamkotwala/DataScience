@@ -1,6 +1,6 @@
 # DataScience
 A repo for all my Data-Science ipynbs. Helpful for someone who wants to start the basics of Data Science (Stats, ML, DL). <br>
-Some datasets (*.csv) are provided by [365datascience] (https://365datascience.com/ ). While some are scraped by me.<br><br>
+Some datasets (*.csv) are provided by [365datascience]. While some are scraped by me.<br><br>
 
 Imports used:
 <i>
@@ -94,3 +94,4 @@ A Simple Neural Network made with numpy.
 The same Simple Neural Network, but now with Tensorflow2.
 
 
+[365datascience]: https://365datascience.com/ 
