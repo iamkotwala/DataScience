@@ -93,5 +93,9 @@ A Simple Neural Network made with numpy.
 <b>15 Simple Neural Network (Tensorflow2)</b><br>
 The same Simple Neural Network, but now with Tensorflow2.
 
+\- Before jumping onto the next section, learn the basics of Layers, Activation functions, BackPropagation, Overfitting, Validation, Cross-Validation, Early-Stopping, Gradient-Descent, Momentum, Learning Rate Scheduled,
+Standardization, Binary & One-Hot Encoding.
+<br><br>
+
 
 [365datascience]: https://365datascience.com/ 
