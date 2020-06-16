@@ -18,6 +18,9 @@ Imports used:
 + from statsmodels.stats.outliers_influence import variance_inflation_factor
 + from sklearn.cluster import KMeans
 + from sklearn import preprocessing
++ from mpl_toolkits.mplot3d import Axes3D
++ import tensorflow as tf
++ import tensorflow_datasets as tfds
 ```
 </i>  
 
@@ -55,7 +58,7 @@ to Performing the Regression (scaling, spliting, weights & biases) and then Test
 Logistic Regression; plotting and summary table from StatsModels.
 
 <b>9 Logistic Regression Binary Predictors</b><br>
-Logistic Regression Binary Predictors with StatsModels; Regression, Confusing-Matrix, Testing with test data.
+Logistic Regression Binary Predictors with StatsModels; Regression, Confusion-Matrix, Testing with test data.
 
 <b>10 Cluster Analysis</b><br>
 Using KMeans clustering to generate continents where each data point is a country.
@@ -90,12 +93,21 @@ A Simple Neural Network made with numpy.
 \- Tensorflow2 is basically keras, because TF2 uses syntax of Keras.
 <br><br>
 
-<b>15 Simple Neural Network (Tensorflow2)</b><br>
+<b>16 Simple Neural Network (Tensorflow2)</b><br>
 The same Simple Neural Network, but now with Tensorflow2.
 
-\- Before jumping onto the next section, learn the basics of Layers, Activation functions, BackPropagation, Overfitting, Validation, Cross-Validation, Early-Stopping, Gradient-Descent, Momentum, Learning Rate Scheduled,
-Standardization, Binary & One-Hot Encoding.
+\- Before jumping onto the next section, learn the basics of Layers, <b>Activation functions</b>, BackPropagation, Overfitting, Validation, Cross-Validation, Early-Stopping, Gradient-Descent, Momentum, Learning Rate Schedules,
+Standardization, Binary & <b>One-Hot Encoding</b>.
 <br><br>
 
+<b>17 Deep Learning with MNIST dataset</b><br>
+"Hello World" of Deep Learning & Image recognition. (Tensorflow2)
+
+\- Preprocess. Train, Validation & Test Dataset Splitting. <br>
+\- Outline the model and choose the activation functions. <br>
+\- Set optimizers and loss functions. <br>
+\- Make it Learn. <br>
+\- Test the accuracy of the model <br>
+<br><br>
 
 [365datascience]: https://365datascience.com/ 
